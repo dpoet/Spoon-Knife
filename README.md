@@ -50,7 +50,11 @@ And none in this case.
 ***
 Check the horizontal rule over this sentence!  
 
+<<<<<<< HEAD
 Now *this* has been edited, previewed, **and** source controlled inside `RStudio` (check this product [here](http://www.rstudio.com/ "Open source and enterprise-ready professional software for the R community.")).
+=======
+Now *this* has been edited, previewed, **and** source controlled inside `RStudio` (check it out [here](http://www.rstudio.com/ "Open source and enterprise-ready professional software for the R community.").
+>>>>>>> 900702d3c64b54c2d2e8aba2b4a3598e6433d975
 
 
 Bye.  
