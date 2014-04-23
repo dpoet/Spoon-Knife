@@ -23,31 +23,31 @@ This is *emphasized*. And this is **strongly** *emphasized*.
 * ...
 * Item N
 
-#### Unordered lists revisited (with the `+` character now)
+#### Unordered lists revisited (with the `+` character now)  
 + New item 1
 + New item 2
 + ...
 + New item N
 
-#### Ordered lists
+#### Ordered lists  
 1. One
 2. Two
 3. Three
 4. ...
 5. N
 
-#### Links
+#### Links  
 This is a [link](https://daringfireball.net/projects/markdown/basics "Learn More Markdown")
 
 #### Code
-`This was written inside backticks` and this was **not**.
-
-    There are four spaces just before this sentence.
-	And a `TAB` just before this one.
-  But just two spaces this time.
-And none in this case.
+`This was written inside backticks` and this was **not**.  
+  
+    There are four spaces just before this sentence.  
+	And a `TAB` just before this one.  
+  But just two spaces this time.  
+And none in this case.  
 
 ***
-Check the horizontal rule over this sentence!
-
-Bye.
+Check the horizontal rule over this sentence!  
+  
+Bye.  
