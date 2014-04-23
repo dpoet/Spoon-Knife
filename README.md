@@ -37,7 +37,7 @@ This is *emphasized*. And this is **strongly** *emphasized*.
 5. N
 
 #### Links  
-This is a [link](https://daringfireball.net/projects/markdown/basics "Learn More Markdown")
+This is a [link](https://daringfireball.net/projects/markdown/basics "Learn More Markdown.").
 
 #### Code
 `This was written inside backticks` and this was **not**.  
@@ -49,5 +49,8 @@ And none in this case.
 
 ***
 Check the horizontal rule over this sentence!  
-  
+
+Now *this* has been edited, previewed, **and** source controlled inside `RStudio` (check this product [here](http://www.rstudio.com/ "Open source and enterprise-ready professional software for the R community.")).
+
+
 Bye.  
