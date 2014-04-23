@@ -8,8 +8,41 @@ After forking this repository, you can make some changes to the project, and sub
 
 For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
 
-## This is supposed to be a new header (markdown)
+### This is supposed to be a new header (markdown)
 .Just changed this again.
 
-#### What about this ?
+### What about this ?
 .Just added this.
+
+> This is a blockquote
+This is *emphasized*. And this is **strongly** *emphasized*.
+
+> Unordered lists
+* Item 1
+* Item 2
+* ...
+* Item N
+
+> Unordered lists revisited (+ now)
++ New item 1
++ New item 2
++ ...
++ New item N
+
+> Ordered lists
+1. One
+2. Two
+3. Three
+4. ...
+5. N
+
+> Links
+This is a [link](https://daringfireball.net/projects/markdown/basics "Learn More Markdown")
+
+> Code
+`This was written inside backticks` and this was not.
+
+    There are four spaces just before this sentence.
+	And a `TAB` just before this one.
+
+***
